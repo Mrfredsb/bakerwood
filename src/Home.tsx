@@ -21,7 +21,7 @@ const products = [
     genetics: "14%, 5%",
     description:
       "A Zkittlez-dominant hybrid bred from the Original Z cut and a Goliath male, carefully selected from regular, non-feminized seeds. This exceptional phenotype inherits the very best qualities of its mother, delivering that uniquely exquisite Zkittlez flavor. Thanks to its Goliath father, it also boasts significantly heavier yields and a stunning layer of frost.",
-    strengthLabel: "Strenght:",
+    strengthLabel: "Strength:",
     strength: "3.5/5",
     image: "/images/02-zeze.png",
   },
