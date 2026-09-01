@@ -8,7 +8,7 @@ const products = [
   {
     number: "01",
     name: "Blue Sherbert",
-    genetics: "18% 4%",
+    genetics: "18%, 4%",
     description:
       "Our specially selected phenotype of the famous Blue Sherb was chosen for its extraordinary flavor. Out of 100 different variations, this specific cut stood above the rest to deliver a sweet, smooth-tasting, and mellow sativa experience. It is crafted for the relaxed hobbyist in need of unwinding after a long, stressful day",
     strengthLabel: "Strength:",
@@ -172,11 +172,11 @@ export default function Home() {
                   <h3>{product.name}</h3>
                   <dl>
                     <div>
-                      <dt>Genetic breakdown (THC / CBD):</dt>
+                      <dt>Genetics (THC / CBD):</dt>
                       <dd>{product.genetics}</dd>
                     </div>
                     <div>
-                      <dt>Desciption:</dt>
+                      <dt>Description:</dt>
                       <dd>{product.description}</dd>
                     </div>
                     <div className="product-strength">
