@@ -11,8 +11,8 @@ const products = [
     genetics: "18% 4%",
     description:
       "Our specially selected phenotype of the famous Blue Sherb was chosen for its extraordinary flavor. Out of 100 different variations, this specific cut stood above the rest to deliver a sweet, smooth-tasting, and mellow sativa experience. It is crafted for the relaxed hobbyist in need of unwinding after a long, stressful day",
-    strengthLabel: "Strenght:",
-    strength: "Strength : 3/5",
+    strengthLabel: "Strength:",
+    strength: "3/5",
     image: "/images/01-bluesherbet.png",
   },
   {
